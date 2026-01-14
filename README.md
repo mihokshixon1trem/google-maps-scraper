@@ -4,10 +4,7 @@
 
 If you’re searching for a google map scraper tool or a google maps data scraper you can run reliably, this project focuses on compliance, stability, and repeatable exports rather than brittle HTML parsing.
 
-<p align="center">
-  <a href="https://bitbash.dev" target="_blank">
-    <img src="https://github.com/Z786ZA/Footer-test/blob/main/media/scraper.png" alt="Bitbash Banner" width="100%"></a>
-</p>
+
 <p align="center">
   <a href="https://t.me/Bitbash333" target="_blank">
     <img src="https://img.shields.io/badge/Chat%20on-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
